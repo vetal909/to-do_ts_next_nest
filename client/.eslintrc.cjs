@@ -27,3 +27,4 @@ module.exports = {
     '@typescript-eslint/no-unsafe-return': 2,
     '@typescript-eslint/no-explicit-any': 2,
   },
+};
